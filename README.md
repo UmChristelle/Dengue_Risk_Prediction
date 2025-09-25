@@ -45,10 +45,10 @@ By leveraging supervised learning, the model identifies high-risk areas and supp
 ---
 
 ## 📈 Results
-- **Accuracy:** ~ (fill in)  
-- **Precision:** ~ (fill in)  
-- **Recall:** ~ (fill in)  
-- **F1-score:** ~ (fill in)  
+- **Accuracy:** ~ ( 0.87)  
+- **Precision:** ~ (0.86)  
+- **Recall:** ~ (0.87)  
+- **F1-score:** ~ (0.86)  
 
 Example visualization:  
 
