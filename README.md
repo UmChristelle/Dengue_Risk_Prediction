@@ -67,7 +67,7 @@ Example visualization:
 ---
 
 ## 🖼️ Presentation
-📑 [View the 5-slide Pitch Deck](.)  
+📑 [View the 5-slide Pitch Deck](.A 5-minute demo showcasing mymodel’s impact.pd)  
 
 ---
 
