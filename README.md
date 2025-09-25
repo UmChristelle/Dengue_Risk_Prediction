@@ -71,8 +71,9 @@ Example visualization:
 
 ---
 
-## 📝 Report
-📄 [Read the Project Report](./report/Dengue_Report.pdf)  
+# 📝 Report
+📄 [Read the Project Report](./report/Dengue%20Report.pdf)
+
 
 ---
 
