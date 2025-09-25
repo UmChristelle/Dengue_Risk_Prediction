@@ -1,4 +1,4 @@
-# Dengue_Risk_Prediction
+
 # 🦟 Dengue Risk Prediction Project
 
 ## 🌍 SDG Alignment
