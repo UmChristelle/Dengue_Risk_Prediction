@@ -20,7 +20,7 @@ By leveraging supervised learning, the model identifies high-risk areas and supp
 ---
 
 ## 📊 Dataset
-- Source: [Kaggle / WHO / Public Health Data] (replace with your actual source)  
+-Source: Kaggle – Sri Lanka Dengue Data (2019–2021)  
 - Features: weather data, location info, and case counts.  
 - Target: dengue outbreak risk (low/high cases).  
 
