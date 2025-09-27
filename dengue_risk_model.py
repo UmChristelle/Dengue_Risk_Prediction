@@ -12,7 +12,6 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, r2_score
 
 # Step 2: Load dataset
-# Make sure 'dengue_data.csv' is in the same folder as this script
 data = pd.read_csv("dengue_data.csv")
 
 # Inspect the data
@@ -56,7 +55,6 @@ print(f"Mean Absolute Error (MAE): {mae:.2f}")
 print(f"R² Score: {r2:.2f}")
 
 # Step 8: Make sample predictions
-# Example: Predict dengue cases for CityA (encoded as 0), Week 25, Temp=30, Rainfall=200, Humidity=80
 sample = pd. DataFrame([[0, 25, 30, 200, 80]], columns=['city', 'weekofyear', 'temperature', 'rainfall', 'humidity'])
 sample[numeric_cols] = scaler.transform(sample[numeric_cols])  # Apply same scaling
 predicted_cases = model.predict(sample)
@@ -89,3 +87,4 @@ plt.grid(axis='y')
 plt.show()
 print("- Predictions are advisory, not medical diagnosis.")
 print("- Helps allocate health resources efficiently to high-risk areas.")
+
