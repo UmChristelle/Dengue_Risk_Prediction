@@ -69,7 +69,8 @@ Example visualization:
 ---
 
 ## 🖼️ Presentation
-📑 [View the 5-minute Demo Pitch Deck](./Demo%20of%20Model%20Impact.pdf)
+📑 [View Demo of Model Impact](./Demo%20of%20Model%20Impact.pdf)
+
 
 ---
 
