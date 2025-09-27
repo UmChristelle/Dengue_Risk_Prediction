@@ -57,7 +57,6 @@ Example visualization:
 
 ![Dengue Cases by City](./avg_cases_city.png.png)  
 
-(Add ROC curve/confusion matrix screenshot here once you run it.)  
 
 ---
 
